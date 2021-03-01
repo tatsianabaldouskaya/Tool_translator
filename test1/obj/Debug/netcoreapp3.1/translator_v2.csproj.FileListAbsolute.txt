@@ -1,0 +1,13 @@
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\obj\Debug\netcoreapp3.1\translator_v2.csprojAssemblyReference.cache
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\obj\Debug\netcoreapp3.1\translator_v2.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\obj\Debug\netcoreapp3.1\translator_v2.AssemblyInfo.cs
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\obj\Debug\netcoreapp3.1\translator_v2.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\bin\Debug\netcoreapp3.1\translator_v2.exe
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\bin\Debug\netcoreapp3.1\translator_v2.deps.json
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\bin\Debug\netcoreapp3.1\translator_v2.runtimeconfig.json
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\bin\Debug\netcoreapp3.1\translator_v2.runtimeconfig.dev.json
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\bin\Debug\netcoreapp3.1\translator_v2.dll
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\bin\Debug\netcoreapp3.1\translator_v2.pdb
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\obj\Debug\netcoreapp3.1\translator_v2.dll
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\obj\Debug\netcoreapp3.1\translator_v2.pdb
+C:\Users\Tatsiana_Baldouskaya\source\repos\translator\test1\obj\Debug\netcoreapp3.1\translator_v2.genruntimeconfig.cache
